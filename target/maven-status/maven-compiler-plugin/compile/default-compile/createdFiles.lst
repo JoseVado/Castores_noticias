@@ -1,0 +1,5 @@
+com\mycompany\noticiascastores\resources\JakartaEE8Resource.class
+Comentarios\Comentario.class
+Comentarios\ControlComentario.class
+Conexion\Conexion.class
+com\mycompany\noticiascastores\JakartaRestConfiguration.class
